@@ -1,0 +1,35 @@
+.content-container {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(144, 227, 254);
+  margin-top: 50px;
+  padding: 5px;
+  padding-bottom: 35px;
+}
+
+h1 {
+  color: rgb(43, 43, 43);
+  text-transform: uppercase;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+
+.input-container input {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0;
+}
+
+button {
+  background-color: rgb(243, 108, 91);
+  color: white;
+  border: 0;
+  border-radius: 10px;
+  width: 270px;
+  padding: 10px 0;
+}
