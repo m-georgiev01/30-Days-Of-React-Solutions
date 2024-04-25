@@ -1,0 +1,21 @@
+.progress {
+  background-color: #ffa52d;
+  height: 20px;
+}
+
+.country-wrapper {
+  display: flex;
+  padding: 5px;
+  gap: 10px;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.country-wrapper .first-div {
+  min-width: 90px;
+  text-align: start;
+}
+
+.country-wrapper .third-div {
+  margin-left: auto;
+}

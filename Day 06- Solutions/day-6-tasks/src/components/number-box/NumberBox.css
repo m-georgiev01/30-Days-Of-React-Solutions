@@ -1,0 +1,25 @@
+.even {
+  background-color: rgb(60, 241, 60);
+}
+
+.odd {
+  background-color: rgb(223, 234, 11);
+}
+
+.prime {
+  background-color: red;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  line-height: 80px;
+  box-sizing: border-box;
+  font-size: 30px;
+  color: white;
+}
+
+.hexa {
+  font-size: unset;
+}
